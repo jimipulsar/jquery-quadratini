@@ -1,0 +1,64 @@
+* {
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+.container {
+  width:500px;
+  height: 530px;
+  background-image: linear-gradient(141deg, #084a57 51%, #185870 75%);
+  position:relative;
+  margin:auto;
+  margin-top: 43px;
+  box-shadow: 0px 0px 5px;
+}
+
+.quadrati {
+  position:absolute;
+  padding: 0px 12px 19px 49px;
+}
+
+
+.quadrato {
+  width:50px;
+  height:50px;
+  background:white;
+  float:left;
+  border:1px solid #000;
+}
+.quadrato1 {
+  width:50px;
+  height:50px;
+  background:white;
+  float:left;
+  border:1px solid #000;
+}
+
+.contatore {
+  text-align:center;
+  padding:20px;
+  margin-bottom:30px;
+}
+
+.contatore h1{
+  text-align:center;
+  color:#000;
+  background:lightgrey;
+  padding:6px;
+  width:50%;
+  float:left;
+  border-left:1px solid #000;
+  font-size:16px;
+}
+
+.contatore h2{
+  text-align:center;
+  color:#000;
+  background:lightgrey;
+  padding:6px;
+  width:50%;
+  float:left;
+  border-left:1px solid #000;
+  font-size:16px;
+}
